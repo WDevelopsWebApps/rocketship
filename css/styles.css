@@ -1,0 +1,159 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Spline Sans", sans-serif;
+  position: relative;
+}
+
+h1 {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 7rem;
+  color: #612897;
+  margin: 0;
+}
+
+h2 {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 4rem;
+  color: #ff6363;
+  text-align: center;
+  margin-bottom: 50px;
+  margin: auto;
+}
+
+h2.lr {
+  margin-right: 23.6rem;
+  padding-top: 5rem;
+  margin-bottom: 1rem;
+}
+
+h2.hor {
+  margin-left: 23.6rem;
+  margin-bottom: 1rem;
+  padding-top: 5rem;
+}
+
+h3 {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2rem;
+  color: #ffab76;
+  width: 50%;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+p {
+  font-family: "Spline Sans", sans-serif;
+  line-height: 2;
+  margin: auto;
+}
+
+p.copyright {
+  font-family: "Spline Sans", sans-serif;
+  line-height: 2;
+  margin: auto;
+  color: #612897;
+}
+
+a {
+  margin: 50px;
+  text-decoration: none;
+  color: #612897;
+}
+
+a:hover {
+  color: #93ffd8;
+}
+
+.top-container {
+  background-color: #d22779;
+  position: relative;
+}
+
+.middle-container {
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #d22779;
+  padding: 50px;
+  color: #612897;
+}
+
+.title {
+  padding-top: 100px;
+}
+
+.spaceX {
+  margin: 30px auto;
+  width: 20%;
+}
+
+.intro-desc {
+  padding-bottom: 105px;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #0c1e7f;
+}
+
+.little-rascal-img {
+  float: left;
+  width: 25%;
+  margin-left: 12.5rem;
+  margin-right: 3.1rem;
+  margin-top: 5rem;
+}
+
+.horizon-img {
+  width: 25%;
+  float: right;
+  margin-right: 12.5rem;
+  margin-left: 3.1rem;
+  margin-top: 5rem;
+}
+
+.rocket1 {
+  margin: auto;
+  width: 50%;
+  padding-bottom: 2rem;
+}
+
+.rocket2 {
+  margin: auto;
+  width: 50%;
+  padding-bottom: 2rem;
+}
+
+.desc-text {
+  width: 50%;
+  margin-left: 350px;
+  margin-bottom: 200px;
+}
+
+.desc-text2 {
+  width: 50%;
+  margin-bottom: 200px;
+  margin-right: 350px;
+}
+
+.more {
+  position: absolute;
+  right: 50px;
+  top: 400px;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 2rem;
+  color: #93ffd8;
+  background-color: blue;
+  border-color: blue;
+  border-style: inset;
+  display: inline;
+}
+
+.more:hover {
+  background-color: red;
+}
+
+.content {
+  padding: 5rem, 2rem;
+  text-align: center;
+}
